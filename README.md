@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jang%20Hyeon%20Jun&fontSize=90)
+[![Hyeon17's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hyeon17&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Hyeon17's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hyeon17&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p align="center">🇰🇷</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
