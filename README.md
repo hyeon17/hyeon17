@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jang%20Hyeon%20Jun&fontSize=90)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Hyeon17}?pet-id=1" width="1000" height="120"/>
+</a>
 [![Hyeon17's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hyeon17&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Hyeon17's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hyeon17&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p align="center">🇰🇷</p>
